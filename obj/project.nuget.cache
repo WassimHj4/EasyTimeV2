@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oazNAqrLqg39jfu8iaJAOAYj9yiweIafBF5s9rVcnFMgxCN57TF4b7b7EDc2d4N8+lMrtCbDP4t+XCPCq2MOAw==",
+  "success": true,
+  "projectFilePath": "D:\\PersonalPoject\\EasyTimeV2\\EasyTimeV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wassi\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\wassi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
